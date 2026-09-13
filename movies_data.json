@@ -1,0 +1,42 @@
+[
+{
+  "model": "movies.movie",
+  "pk": 1,
+  "fields": {
+    "name": "Titanic",
+    "price": 11,
+    "description": "A love story set against the backdrop of the sinking Titanic.",
+    "image": "movie_images/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc._V1_.jpg"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 2,
+  "fields": {
+    "name": "Inception",
+    "price": 12,
+    "description": "A mind-bending heist thriller.",
+    "image": "movie_images/d7284be7feee0f54a1d63480a56017ed7f9355cb1b7f07b538b6e3f25863ca0a.jpg"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 3,
+  "fields": {
+    "name": "Avatar",
+    "price": 13,
+    "description": "A journey to a distant world and the battle for resources.",
+    "image": "movie_images/Avatar_2009_film_poster.jpg"
+  }
+},
+{
+  "model": "movies.movie",
+  "pk": 4,
+  "fields": {
+    "name": "The Dark Knight",
+    "price": 14,
+    "description": "Gothams vigilante faces the Joker.",
+    "image": "movie_images/z19ndjd7m2ac1.jpeg"
+  }
+}
+]
